@@ -3,3 +3,4 @@
 
 **Jira tickets examples**
 
+- https://github.com/ShakinSledge/Bug-Examples/blob/main/Jira%20bug%20ticket%201.jpg
