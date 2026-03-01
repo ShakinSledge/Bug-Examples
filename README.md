@@ -9,4 +9,27 @@
 
 - https://github.com/ShakinSledge/Bug-Examples/blob/main/Jira%20bug%20ticket%202.jpg
 
+- https://github.com/ShakinSledge/Bug-Examples/blob/main/Jira%20bug%20ticket%203.jpg
+
+- https://github.com/ShakinSledge/Bug-Examples/blob/main/Jira%20bug%20ticket%204.jpg
+
+**Mantis tickets examples:** :bug:
+
 - 
+
+- 
+
+- 
+
+-
+
+**Azure DevOps tickets examples:** :bug:
+
+- 
+
+- 
+
+- 
+
+- 
+
