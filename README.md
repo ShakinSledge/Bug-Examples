@@ -1,4 +1,4 @@
- :video_game: **Below are some examples of fictional bugs created by me in Jira, Mantis and Azure DevOps. All of them are created for the purpose of showing them on GitHub and do not represent real issues in any form.** :beetle:
+ :video_game: **Below are some examples of fictional bugs created by me in Jira and Mantis I was also working for 8 months with Azure DevOps creating. All of them are created for the purpose of showing them on GitHub and do not represent real issues in any form.** :beetle:
 
 
 
@@ -22,14 +22,4 @@
 - 
 
 -
-
-**Azure DevOps tickets examples:** :bug:
-
-- 
-
-- 
-
-- 
-
-- 
 
